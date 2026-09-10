@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Blake (@blakenet892)
 
-<!--
-**blakenet892/blakenet892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst based in London, working at Data Insights. Most days involve cleaning messy tabular exports, optimizing queries, and automating reporting pipelines.
 
-Here are some ideas to get you started:
+#### What I'm up to:
+- Processing analytical workloads using DuckDB, Pandas, and NumPy
+- Writing analytical SQL and cleaning up legacy queries
+- Prototyping visualizations and EDA workflows in Jupyter
+- Exploring Polars for larger-than-memory processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox:
+`Python` `SQL` `DuckDB` `Pandas` `NumPy` `PostgreSQL` `Jupyter` `Git`
+
+#### Get in touch:
+- Email: blake.work@datainsights.co.uk
+- LinkedIn: linkedin.com/in/blakenet892
